@@ -1,0 +1,28 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    .webHeader{
+        height: 58px;
+        background-color: red;
+        padding: 0;
+        line-height: 58px;
+        padding-left: 15px;
+    }
+    .webFooter {
+        height: 28px;
+        background-color: blue;
+        line-height: 28px;
+        padding: 0;
+        padding-left: 15px;
+    }
+    .slideTop{
+        height:58px;
+        background-color: palevioletred;
+        line-height: 58px;
+        padding-left: 15px;
+    }
+    .tl{
+        text-align: center;
+    }
+}
